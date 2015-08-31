@@ -1,6 +1,15 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control"
+		"BracketHighlighter",
+		"JsFormat",
+		"Open Folder",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jscs"
 	]
 }

@@ -1,0 +1,8 @@
+{
+	"jslint_happy": true,
+	"format_on_save": true,
+	"max_preserve_new_lines": 2,
+	"jsbeautifyrc_files": true,
+	"space_before_conditional": true,
+	"space_before_linestarters": true
+}
